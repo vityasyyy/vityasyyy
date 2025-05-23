@@ -1,57 +1,50 @@
-### Hi there 👋, I'm Muhammad Argya Vityasy
+**Muhammad Argya Vityasy**
+*Backend Developer & Aspiring Cloud/DevOps Engineer*
 
-I'm a **Backend Developer** with a passion for building robust and scalable applications. My primary tools of the trade are **Go (with the Gin framework)** and **Node.js (with Express)**. I'm also deeply interested in the world of **DevOps** and **Cloud Computing**, constantly exploring ways to build, deploy, and manage applications efficiently.
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)](https://golang.org/) [![Gin](https://img.shields.io/badge/Gin-000000?logo=gin)](https://github.com/gin-gonic/gin) [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express.js-000000?logo=express)](https://expressjs.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)](https://kubernetes.io/) [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)](https://aws.amazon.com/) [![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud)](https://cloud.google.com/)
 
-\<br/\>
+---
 
------
+## 🔭 About Me
 
-### 🔧 Technologies & Tools
+I’m **Muhammad Argya Vityasy**, a dedicated Backend Developer who’s now diving headfirst into Cloud Computing and DevOps. While I’m still solidifying my backend expertise with Go and Node.js, my next frontier is mastering container orchestration, infrastructure-as-code, and serverless workflows.
 
-Here are some of the technologies and tools I work with:
+* 🔧 **Core Languages:** Go · JavaScript · TypeScript
+* ⚙️ **Frameworks:** Gin · Express
+* 🐳 **Containers & Orchestration:** Docker · Kubernetes
+* ☁️ **Cloud & DevOps:** AWS · Google Cloud · Terraform · Jenkins · CI/CD
 
-  * **Languages:** Go, JavaScript, TypeScript
-  * **Backend Frameworks:** Gin (Go), Node.js/Express
-  * **Containerization:** Docker
-  * **Databases:** PostgreSQL, MongoDB, Redis
-  * **Cloud & DevOps:** AWS, Google Cloud, CI/CD, Jenkins, Git, Kubernetes
+---
 
-\<br/\>
+## 🌱 Currently Learning
 
------
+* **Devops** basics, networking, and sysadmin.
+* Deepening **Kubernetes** skills for production-grade deployments.
+* Building **serverless** functions with AWS Lambda & GCP Functions.
+* Writing **Infrastructure as Code** with Terraform.
+* Automating CI/CD pipelines for seamless releases.
 
-### 🌱 I'm Currently Learning
+---
 
-I'm always eager to learn and expand my skill set. Currently, I'm focusing on:
+## 📂 Highlighted Projects
 
-  * Diving deeper into **Kubernetes** for container orchestration.
-  * Exploring **serverless architectures** with AWS Lambda and Google Cloud Functions.
-  * Enhancing my knowledge of **Infrastructure as Code (IaC)** with Terraform.
+| Project                         | Description                                          | Tech Stack                                          |
+| ------------------------------- | ---------------------------------------------------- | --------------------------------------------------- |
+| Event Registration Websites     | Event registration websites for events like MUN      | Go · Gin · PostgreSQL · NextJS · Express · MongoDB  |
+| Quiz & Tryout System            | Online quiz platform with time-bound subtests        | Go · Gin · Next.js · IndexedDB                      |
+| Google Drive Clone (Cloud PaaS) | Recreation of cloud storage inspired by Google Drive | Go · Docker · Minio                                 |
+| Video Streaming Service         | Microservices-based streaming app with Kubernetes    | Go · Node.js · Docker · AWS S3 · Kubernetes         |
 
-\<br/\>
+> *Explore each repo via my GitHub profile for code samples and live demos.*
 
------
+---
 
+## 📫 Get in Touch
 
-### 📫 Get in Touch
+* **LinkedIn:** [linkedin.com/in/vityasy](https://www.linkedin.com/in/vityasy)
+* **Email:** [argyavityasy1208@gmail.com](mailto:argyavityasy1208@gmail.com)
 
-  * **LinkedIn:** [linkedin.com/in/vityasy](https://www.google.com/search?q=https://www.linkedin.com/in/vityasy)
-  * **Email:** argyavityasy1208@gmail.com
+---
 
-\<br/\>
-
------
-
-### Badges
-
-\<p align="left"\>
-\<a href="[suspicious link removed]" target="\_blank"\>
-\<img src="[suspicious link removed]" alt="Gin"/\>
-\</a\>
-\<a href="[suspicious link removed]" target="\_blank"\>
-\<img src="[suspicious link removed]" alt="Express.js"/\>
-\</a\>
-\<a href="[suspicious link removed]" target="\_blank"\>
-\<img src="[suspicious link removed]" alt="Docker"/\>
-\</a\>
-\</p\>
+> “Continuous improvement is better than delayed perfection.”
+> — Mark Twain
