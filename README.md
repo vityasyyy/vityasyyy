@@ -1,7 +1,7 @@
 **Muhammad Argya Vityasy**
 *Backend Developer & Aspiring Cloud/DevOps Engineer*
 
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)](https://golang.org/) [![Gin](https://img.shields.io/badge/Gin-000000?logo=gin)](https://github.com/gin-gonic/gin) [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express.js-000000?logo=express)](https://expressjs.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)](https://kubernetes.io/) [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)](https://aws.amazon.com/) [![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud)](https://cloud.google.com/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)](https://golang.org/) [![Gin](https://img.shields.io/badge/Gin-000000?logo=gin)](https://github.com/gin-gonic/gin) [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express.js-000000?logo=express)](https://expressjs.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)](https://kubernetes.io/)
 
 ---
 
@@ -30,7 +30,7 @@ I’m **Muhammad Argya Vityasy**, a dedicated Backend Developer who’s now divi
 
 | Project                         | Description                                          | Tech Stack                                          |
 | ------------------------------- | ---------------------------------------------------- | --------------------------------------------------- |
-| Event Registration Websites     | Event registration websites for events like MUN      | Go · Gin · PostgreSQL · NextJS · Express · MongoDB  |
+| Event Registration Websites     | Event registration websites for events like Model United Nation     | Go · Gin · PostgreSQL · NextJS · Express · MongoDB  |
 | Quiz & Tryout System            | Online quiz platform with time-bound subtests        | Go · Gin · Next.js · IndexedDB                      |
 | Google Drive Clone (Cloud PaaS) | Recreation of cloud storage inspired by Google Drive | Go · Docker · Minio                                 |
 | Video Streaming Service         | Microservices-based streaming app with Kubernetes    | Go · Node.js · Docker · AWS S3 · Kubernetes         |
