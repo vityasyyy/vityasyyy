@@ -42,7 +42,7 @@ I’m **Muhammad Argya Vityasy**, a dedicated Backend Developer who’s now divi
 ## 📫 Get in Touch
 
 * **LinkedIn:** [linkedin.com/in/vityasy](https://www.linkedin.com/in/vityasy)
-* **Email:** [argyavityasy1208@gmail.com](mailto:argyavityasy1208@gmail.com)
+* **Email:** [vityasyyy@gmail.com](mailto:vityasyyy@gmail.com)
 
 ---
 
